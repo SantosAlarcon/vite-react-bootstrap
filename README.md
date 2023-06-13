@@ -1,3 +1,5 @@
 # vite-react-boostrap
 ![](Captura.jpg)
-Plantilla de Vite que utiliza React y Bootstrap
+
+# ¿Qué es esto? 🤔
+Esta es una plantilla de <a href="https://vitejs.dev" target="_blank">**Vite**</a> que utliza el plugin de **React** y **Bootstrap**. Esta plantilla está pensada para aquellos desarrolladores que utilizan el framework de **Bootstrap** para sus desarrollos.
