@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import bootstrapLogo from './assets/Bootstrap-logo.png'
+import viteLogo from './assets/vite.svg'
 import ModoOscuro from "./components/ModoOscuro"
 import './styles/App.css'
 
@@ -11,7 +12,7 @@ function App() {
     <div className="App container">
       <div>
         <a href="https://vitejs.dev" target="_blank">
-          <img src="./assets/vite.svg" className="logo" alt="Logo Vite" />
+          <img src={viteLogo} className="logo" alt="Logo Vite" />
         </a>
         <a href="https://reactjs.org" target="_blank">
           <img src={reactLogo} className="logo logo-spin" alt="Logo React" />
