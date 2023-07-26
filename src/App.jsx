@@ -11,7 +11,7 @@ function App() {
     <div className="App container">
       <div>
         <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Logo Vite" />
+          <img src="/src/assets/vite.svg" className="logo" alt="Logo Vite" />
         </a>
         <a href="https://reactjs.org" target="_blank">
           <img src={reactLogo} className="logo logo-spin" alt="Logo React" />
